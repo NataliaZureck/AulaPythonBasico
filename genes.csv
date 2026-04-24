@@ -1,0 +1,6 @@
+,numero de caracteres,iniciais,qtd_a,se_tem_hu
+BRCA1,5,BR,1,False
+TP53,4,TP,0,False
+EGFR,4,EG,0,False
+CHEK2,5,CH,0,False
+PTEN,4,PT,0,False
